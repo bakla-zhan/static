@@ -1,50 +1,56 @@
 [
     {
-        "productName":"MANGO PEOPLE T-SHIRT",
+        "productName":"Mango People T-Shirt",
         "productPrice":52,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product1.jpg",
         "productId":"prod_0"
     },
     {
-        "productName":"BANANA PEOPLE T-SHIRT",
+        "productName":"Banana People T-Shirt",
         "productPrice":53,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product2.jpg",
         "productId":"prod_1"
     },
     {
-        "productName":"STRAWBERRY PEOPLE T-SHIRT",
+        "productName":"Strawberry People T-Shirt",
         "productPrice":55,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem3.jpg",
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product3.jpg",
         "productId":"prod_2"
     },
     {
-        "productName":"ORANGE PEOPLE T-SHIRT",
+        "productName":"Orange People T-Shirt",
         "productPrice":67,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem4.jpg",
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product4.jpg",
         "productId":"prod_3"
     },
     {
-        "productName":"PUMKIN PEOPLE T-SHIRT",
+        "productName":"Pumpkin People T-Shirt",
         "productPrice":69,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem5.jpg",
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product5.jpg",
         "productId":"prod_4"
     },
     {
-        "productName":"PINEAPPLE PEOPLE T-SHIRT",
+        "productName":"Pineapple People T-Shirt",
         "productPrice":94,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem6.jpg",
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product6.jpg",
         "productId":"prod_5"
     },
     {
-        "productName":"CUCUMBER PEOPLE T-SHIRT",
+        "productName":"Cucumber People T-Shirt",
         "productPrice":23,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem7.jpg",
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product7.jpg",
         "productId":"prod_6"
     },
     {
-        "productName":"TOMATO PEOPLE T-SHIRT",
+        "productName":"Tomato People T-Shirt",
         "productPrice":45,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem8.jpg",
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product8.jpg",
         "productId":"prod_7"
+    },
+    {
+        "productName":"Mango People T-Shirt",
+        "productPrice":52,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/product9.jpg",
+        "productId":"prod_8"
     }
 ]
