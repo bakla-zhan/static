@@ -1,0 +1,50 @@
+[
+    {
+        "productName":"Mango People T-Shirt",
+        "productPrice":52,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/8-1.jpg",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"Banana People T-Shirt",
+        "productPrice":53,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/8-2.jpg",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"Strawberry People T-Shirt",
+        "productPrice":55,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/8-3.jpg",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"Orange People T-Shirt",
+        "productPrice":67,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/8-4.jpg",
+        "productId":"prod_3"
+    },
+    {
+        "productName":"Pumpkin People T-Shirt",
+        "productPrice":69,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/8-5.jpg",
+        "productId":"prod_4"
+    },
+    {
+        "productName":"Pineapple People T-Shirt",
+        "productPrice":94,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/8-6.jpg",
+        "productId":"prod_5"
+    },
+    {
+        "productName":"Cucumber People T-Shirt",
+        "productPrice":23,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/8-7.jpg",
+        "productId":"prod_6"
+    },
+    {
+        "productName":"Tomato People T-Shirt",
+        "productPrice":45,
+        "productImg":"https://raw.githubusercontent.com/bakla-zhan/static/master/img/8-8.jpg",
+        "productId":"prod_7"
+    }
+]
